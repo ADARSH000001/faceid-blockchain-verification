@@ -1,0 +1,8 @@
+.env
+.env.backup
+__pycache__/
+*.pyc
+candidates/*.jpg
+candidates/*.jpeg
+candidates/*.png
+!candidates/.gitkeep
