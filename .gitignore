@@ -6,3 +6,4 @@ candidates/*.jpg
 candidates/*.jpeg
 candidates/*.png
 !candidates/.gitkeep
+.venv/
